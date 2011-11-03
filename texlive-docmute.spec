@@ -1,3 +1,9 @@
+# revision 17851
+# category Package
+# catalog-ctan /macros/latex/contrib/docmute
+# catalog-date 2010-04-12 18:27:30 +0200
+# catalog-license lppl1.3
+# catalog-version 1.2
 Name:		texlive-docmute
 Version:	1.2
 Release:	1
@@ -44,6 +50,7 @@ everything but the material between \begin{document} and
 #- source
 %doc %{_texmfdistdir}/source/latex/docmute/docmute.dtx
 %doc %{_texmfdistdir}/source/latex/docmute/docmute.ins
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -54,3 +61,5 @@ everything but the material between \begin{document} and
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
