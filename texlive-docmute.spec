@@ -1,12 +1,12 @@
-# revision 17851
+# revision 25230
 # category Package
 # catalog-ctan /macros/latex/contrib/docmute
-# catalog-date 2010-04-12 18:27:30 +0200
+# catalog-date 2012-01-28 09:31:08 +0100
 # catalog-license lppl1.3
-# catalog-version 1.2
+# catalog-version 1.3
 Name:		texlive-docmute
-Version:	1.2
-Release:	2
+Version:	1.3
+Release:	1
 Summary:	Input files ignoring LaTeX preamble, etc
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/docmute
