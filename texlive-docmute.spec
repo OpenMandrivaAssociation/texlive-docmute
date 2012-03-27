@@ -1,11 +1,11 @@
-# revision 25230
+# revision 25741
 # category Package
 # catalog-ctan /macros/latex/contrib/docmute
-# catalog-date 2012-01-28 09:31:08 +0100
+# catalog-date 2012-03-22 16:41:56 +0100
 # catalog-license lppl1.3
-# catalog-version 1.3
+# catalog-version 1.4
 Name:		texlive-docmute
-Version:	1.3
+Version:	1.4
 Release:	1
 Summary:	Input files ignoring LaTeX preamble, etc
 Group:		Publishing
