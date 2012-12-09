@@ -50,3 +50,25 @@ everything but the material between \begin{document} and
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Tue Mar 27 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.4-1
++ Revision: 787579
+- Update to latest release.
+
+* Tue Jan 31 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.3-1
++ Revision: 770139
+- Update to latest upstream package
+
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.2-2
++ Revision: 751007
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.2-1
++ Revision: 718244
+- texlive-docmute
+- texlive-docmute
+- texlive-docmute
+- texlive-docmute
+
