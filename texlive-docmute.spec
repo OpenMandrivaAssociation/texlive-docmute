@@ -6,7 +6,7 @@
 # catalog-version 1.4
 Name:		texlive-docmute
 Version:	1.4
-Release:	7
+Release:	8
 Summary:	Input files ignoring LaTeX preamble, etc
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/docmute
