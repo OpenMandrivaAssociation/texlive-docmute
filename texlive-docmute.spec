@@ -1,6 +1,6 @@
 Name:		texlive-docmute
 Version:	25741
-Release:	1
+Release:	2
 Summary:	Input files ignoring LaTeX preamble, etc
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/docmute
