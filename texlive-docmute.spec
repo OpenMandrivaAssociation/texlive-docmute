@@ -3,7 +3,7 @@ Version:	25741
 Release:	2
 Summary:	Input files ignoring LaTeX preamble, etc
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/docmute
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/docmute
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/docmute.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/docmute.doc.r%{version}.tar.xz
